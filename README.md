@@ -1,6 +1,5 @@
 # Welcome to Your Miaoda Project
-Miaoda Application Link URL
-    URL:https://medo.dev/projects/app-7w4mks13jz7l
+Miaoda Application 
     my web application link https://app-7w4mks13jz7l.appmedo.com
 
 # Welcome to Your Miaoda Project
